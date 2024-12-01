@@ -1,0 +1,5 @@
+[package]
+name = "day-01-a"
+version = "0.1.0"
+authors = ["Lauri Virtanen <lauri.virtanen@iki.fi>"]
+edition = "2021"
